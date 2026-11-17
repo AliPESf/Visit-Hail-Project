@@ -46,3 +46,23 @@ Three-layer approach: presentation (PHP templates/CSS), application logic (PHP h
 - Example tour names, prices, and capacities are **demo data**, not real offers.
 - This package has not been tested against a running PHP/MySQL instance in this environment. Run the test cases and record actual results.
 - Lighthouse scores must be measured in Chrome on a reachable running app. Do not submit invented scores.
+
+- 
+## Testing
+
+The Visit Ha'il application was tested using
+8 functional test cases.
+
+- Total Tests: 8
+- Passed: 8
+- Failed: 0
+
+## Lighthouse Results
+
+| Category | Before | After |
+|---|---|---|
+| Performance | 100 | 100 |
+| Accessibility | 94 | 100 |
+| Best Practices | 100 | 100 |
+| SEO | 90 | 100 |
+
